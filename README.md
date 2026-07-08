@@ -117,4 +117,4 @@ This project was primarily developed with AI assistance. It is provided for educ
 
 ## License
 
-MIT
+[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
